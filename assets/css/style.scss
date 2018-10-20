@@ -2,3 +2,45 @@
 ---
 
 @import "{{ site.theme }}";
+
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+<style>
+@import url('https://fonts.googleapis.com/css?family=K2D|Krub|Lato|Montserrat|Niramit|Noto+Sans|Open+Sans|PT+Sans|Poppins|Raleway|Roboto|Roboto+Mono|Source+Sans+Pro|Ubuntu');
+</style>;
+
+header#h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 24px;
+}
+header#h3 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+
+}
+
+body {
+  background-color: whitesmoke;
+  font-family: 'Poppins', sans-serif;
+  padding: 5px 25px;
+  font-size: 16px;
+  margin: 0;
+  color: #444;
+}
+
+main [
+  font-family: 'Poppins', sans-serif;
+  font-sixe: 14px;
+
+]
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-sixe: 14px;
+}
+
+footer {
+  
+  font-family: 'Poppins', sans-serif;
+  font-size: 10px;
+}
