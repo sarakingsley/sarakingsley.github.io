@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Sara Kingsley"
+  cookie-consent: false
+  comments: 
+    hypothesis:
+      theme: clean
+      openSidebar: false
+      showHighlights: true
+  page-footer: | 
+    This page brought to you by Sara C. Kingsley (2023)
+  twitter-card:
+    creator: "@sendgoodcheers"
+    site: "@twitter"
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - research.qmd
+      - data.qmd
+      - blog.qmd 
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+    link-external-icon: true
+    link-external-newwindow: true
+    linkcolor: black
+    email-obfuscation: javascript 
+    backgroundcolor: white
+
+
+
