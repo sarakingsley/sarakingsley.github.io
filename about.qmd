@@ -5,7 +5,10 @@ about:
   image: kingsley-sara.jpg
   links:
     - icon: bi bi-book
-      text: CMU
+      text: CMU website
+      href: https://hcii.cmu.edu/people/sara-kingsley
+    - icon: bi bi-book
+      text: C.V.
       href: https://hcii.cmu.edu/people/sara-kingsley
 ---
 
