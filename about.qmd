@@ -9,7 +9,7 @@ about:
       href: https://hcii.cmu.edu/people/sara-kingsley
     - icon: bi bi-book
       text: C.V.
-      href: https://hcii.cmu.edu/people/sara-kingsley
+      href: https://github.com/sarakingsley/sarakingsley.github.io/blob/978a21046f1be1a6a5f97ce3f46033d15bedff33/Kingsley_CV_February2023__no_objective_statement_.pdf
 ---
 
 `Sara Kingsley` is a PhD Researcher at Carnegie Mellon University’s School of Computer Science, where she is advised by `Dr. Beibei Li` and `Dr. Jeffrey P. Bigham`. 
