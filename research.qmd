@@ -6,7 +6,7 @@ A complete list of my peer-reviewed (both non-archival and archival) publication
 
 ## Archival
 
-(@) Rena Li***, Sara Kingsley***, Chelsea Fan, Proteeti Sinha, Nora Wai, Jaimie Lee, Hong Shen, Motahhare Eslami, and Jason I. Hong. 2023. "Participation and Division of Labor in User-Driven Algorithm Audits: How Do Everyday Users Work together to Surface Algorithmic Harms?." In the Proceedings of ACM's Conference on Human Factors in Computing (CHI). Forthcoming, April 2023, Hamburg, Germany. [Pre-print paper link] (https://github.com/sarakingsley/sarakingsley.github.io/blob/8aa61858ef49ff9ffa38062906919f43e3b1aac4/twitterpaperindex.html) *** Equal contributions 
+(@) Rena Li***, Sara Kingsley***, Chelsea Fan, Proteeti Sinha, Nora Wai, Jaimie Lee, Hong Shen, Motahhare Eslami, and Jason I. Hong. 2023. "Participation and Division of Labor in User-Driven Algorithm Audits: How Do Everyday Users Work together to Surface Algorithmic Harms?." In the Proceedings of ACM's Conference on Human Factors in Computing (CHI). Forthcoming, April 2023, Hamburg, Germany. [Pre-print paper link] (https://sarakingsley.github.io/twitterpaperindex.html) *** Equal contributions 
 
 (@) `Sara Kingsley`, Proteeti Sinha, Clara Wang, Motahhare Eslami, and Jason I. Hong. 2022. "Give Everybody [..] a Little Bit More Equity": Content Creator Perspectives and Responses to the Algorithmic Demonetization of Content Associated with Disadvantaged Groups." Proc. ACM Hum.-Comput. Interact. 6, CSCW2, Article 424 (November 2022), 37 pages. [ACM Library](https://doi.org/10.1145/3555149) 
 
