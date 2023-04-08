@@ -3,14 +3,19 @@ title: ""
 ---
 
 ## Current Status
+Seasons greetings Carnegie Mellon community, during the summer. I am available for remote meetings Mondays, Wednesdays, and Fridays. I will be available for in-person meetings at CMU again in September 2023.
 
-Seasons greetings Carnegie Mellon community, I am currently available for in-person meetings Mondays and Wednesdays (before 12pm ET and after 2:30pm ET), and remote meetings all days of the week.
+## Travel FYI
+I will be traveling out of country until May 1, 2023.
 
 ## News
+* *Tuesday, April 25, 2023*: We will present our paper,  `Participation and Division of Labor in User-Driven Audits on Social Media`, at CHI. We'd love to have you at the presentation if you're attending CHI, please stop by! [Pre-print](https://arxiv.org/pdf/2304.02134.pdf)
 
-* *January 2023*: Our paper on `Participation and Division of Labor in User-Driven Audits on Social Media` was accepted to CHI 2023! We are excited to present this paper in Hamburg, Germany this May! ***Check back here, we will post a pre-print soon!***
+* *January 2023*: Our paper on `Participation and Division of Labor in User-Driven Audits on Social Media` was accepted to CHI 2023! 
 
 * *November 2022*: Our `YouTube Demonetization study` was published in the ACM library! [ACM Library](https://doi.org/10.1145/3555149) 
+
+
 
 
 
