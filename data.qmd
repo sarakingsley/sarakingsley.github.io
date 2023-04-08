@@ -1,4 +1,43 @@
 ---
-title: "Data"
+title: Email Your Boss ChatBot 
 ---
+
+This is version 1. It is buggy FYI.
+
+## Where can I find the Chatbot?
+Press the blue button at the bottom of the screen to open the ChatBot.
+
+
+
+## Instructions
+The ChatBot will only take 2 user inputs/messages and provide only 2 responses to those inputs, then the conversation will end.
+
+If you want to generate additional AI generated responses, please press "Start New Chat." Then you will have 2 more inputs and responses, etc. and so on.
+
+### What Prompts should I provide?
+Imagine you are a new employee or job-seeker. Your (prospective) boss has given you a general or ambiguous job description or task to do. You'd like feedback on how, when (etc.) your (prospective) boss would like the task done. You're unsure how to compose an email to ask. Describe the job description or task to the ChatBot. Would you send this email to your boss? Yes? No? Why or why not? 
+
+### Note
+We have found the connection to Voiceflow buggy. If the chatBot doesn't respond, please start a new chat and try again. If that doesn't work, wait 10-15 minutes, and it will usually work at some point.
+
+This is about the most basic prototype we could make. We are working to add more interaction types and resolve the connection issues and bugs. 
+
+## Feedback
+We'd love your feedback! Please send any feedback or questions to Sara Kingsley at <skingsle [at] cs.cmu.edu>
+
+<body>
+<script type="text/javascript">
+  (function(d, t) {
+      var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
+      v.onload = function() {
+        window.voiceflow.chat.load({
+          verify: { projectID: '642dcfea324afd00077a5513' },
+          url: 'https://general-runtime.voiceflow.com',
+          versionID: 'production'
+        });
+      }
+      v.src = "https://cdn.voiceflow.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
+  })(document, 'script');
+</script>
+</body>
 
