@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Sara Kingsley - Data</title>
+<title>Sara Kingsley - Email Your Boss ChatBot</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -58,11 +58,19 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script type="application/json" class="js-hypothesis-config">
+{
+  "theme": "clean",
+  "openSidebar": false,
+  "showHighlights": true
+}
+</script>
+<script async="" src="https://hypothes.is/embed.js"></script>
 
 
 <link rel="stylesheet" href="styles.css">
-<meta name="twitter:title" content="Sara Kingsley - Data">
-<meta name="twitter:description" content="This page brought to you by Sara Kingsley (2023)">
+<meta name="twitter:title" content="Sara Kingsley - Email Your Boss ChatBot">
+<meta name="twitter:description" content="This is version 1. It is buggy FYI.">
 <meta name="twitter:creator" content="@sendgoodcheers">
 <meta name="twitter:site" content="@twitter">
 <meta name="twitter:card" content="summary">
@@ -98,7 +106,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./data.html" aria-current="page">
- <span class="menu-text">Data</span></a>
+ <span class="menu-text">Email Your Boss ChatBot</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./blog.html">
@@ -115,14 +123,26 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#where-can-i-find-the-chatbot" id="toc-where-can-i-find-the-chatbot" class="nav-link active" data-scroll-target="#where-can-i-find-the-chatbot">Where can I find the Chatbot?</a></li>
+  <li><a href="#instructions" id="toc-instructions" class="nav-link" data-scroll-target="#instructions">Instructions</a>
+  <ul class="collapse">
+  <li><a href="#what-prompts-should-i-provide" id="toc-what-prompts-should-i-provide" class="nav-link" data-scroll-target="#what-prompts-should-i-provide">What Prompts should I provide?</a></li>
+  <li><a href="#note" id="toc-note" class="nav-link" data-scroll-target="#note">Note</a></li>
+  </ul></li>
+  <li><a href="#feedback" id="toc-feedback" class="nav-link" data-scroll-target="#feedback">Feedback</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Data</h1>
+<h1 class="title">Email Your Boss ChatBot</h1>
 </div>
 
 
@@ -137,10 +157,48 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p>This is version 1. It is buggy FYI.</p>
+<section id="where-can-i-find-the-chatbot" class="level2">
+<h2 class="anchored" data-anchor-id="where-can-i-find-the-chatbot">Where can I find the Chatbot?</h2>
+<p>Press the blue button at the bottom of the screen to open the ChatBot.</p>
+</section>
+<section id="instructions" class="level2">
+<h2 class="anchored" data-anchor-id="instructions">Instructions</h2>
+<p>The ChatBot will only take 2 user inputs/messages and provide only 2 responses to those inputs, then the conversation will end.</p>
+<p>If you want to generate additional AI generated responses, please press “Start New Chat.” Then you will have 2 more inputs and responses, etc. and so on.</p>
+<section id="what-prompts-should-i-provide" class="level3">
+<h3 class="anchored" data-anchor-id="what-prompts-should-i-provide">What Prompts should I provide?</h3>
+<p>Imagine you are a new employee or job-seeker. Your (prospective) boss has given you a general or ambiguous job description or task to do. You’d like feedback on how, when (etc.) your (prospective) boss would like the task done. You’re unsure how to compose an email to ask. Describe the job description or task to the ChatBot. Would you send this email to your boss? Yes? No? Why or why not?</p>
+</section>
+<section id="note" class="level3">
+<h3 class="anchored" data-anchor-id="note">Note</h3>
+<p>We have found the connection to Voiceflow buggy. If the chatBot doesn’t respond, please start a new chat and try again. If that doesn’t work, wait 10-15 minutes, and it will usually work at some point.</p>
+<p>This is about the most basic prototype we could make. We are working to add more interaction types and resolve the connection issues and bugs.</p>
+</section>
+</section>
+<section id="feedback" class="level2">
+<h2 class="anchored" data-anchor-id="feedback">Feedback</h2>
+<p>We’d love your feedback! Please send any feedback or questions to Sara Kingsley at &lt;skingsle [at] cs.cmu.edu&gt;</p>
+
+<script type="text/javascript">
+  (function(d, t) {
+      var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
+      v.onload = function() {
+        window.voiceflow.chat.load({
+          verify: { projectID: '642dcfea324afd00077a5513' },
+          url: 'https://general-runtime.voiceflow.com',
+          versionID: 'production'
+        });
+      }
+      v.src = "https://cdn.voiceflow.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
+  })(document, 'script');
+</script>
 
 
 
-<p>This page brought to you by Sara Kingsley (2023)</p></main> <!-- /main -->
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -272,9 +330,30 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+      <div class="nav-footer-center">This page brought to you by Sara C. Kingsley (2023)</div>
+  </div>
+</footer>
 
 
 
