@@ -9,6 +9,10 @@ Seasons greetings Carnegie Mellon community, during the summer. I am available f
 I will be traveling May 14 - 17, 2023.
 
 ## News
+* *June 2023*: I will be starting an intership at Harvard Law School's Berkman Klein Center, researching AI regulations with Dr. Rumman Chowdhury and Professor Susan Hendrickson!
+
+* * *May 2023*: I will be giving an invited talk at Rutgers University on AI inequality and UN Sustainable Development Goals (SDGS) [DIMACS Workshop Program](http://dimacs.rutgers.edu/events/details?eID=2394)
+
 * *Tuesday, April 25, 2023*: We will present our paper,  `Participation and Division of Labor in User-Driven Audits on Social Media`, at CHI. We'd love to have you at the presentation if you're attending CHI, please stop by! [Pre-print](https://arxiv.org/pdf/2304.02134.pdf)
 
 * *January 2023*: Our paper on `Participation and Division of Labor in User-Driven Audits on Social Media` was accepted to CHI 2023! 
