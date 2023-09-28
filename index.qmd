@@ -2,12 +2,23 @@
 title: ""
 ---
 
-## Current Status
-Seasons greetings Carnegie Mellon community, this summer, I am available for remote meetings Mondays, Wednesdays, and Fridays. I will be available for in-person meetings at CMU again in September 2023.
+## Current Status:
+Seasons greetings Carnegie Mellon community, I am available for meetings Mondays, Wednesdays, and Fridays.
 
+## Research & Work:
+My research specifically focuses on understanding the economic risks of A.I. systems and tools, including generative A.I. models, for vulnerable, disadvantages, and marginalized end-users and socity.
 
-## News
-* *June 2023*: I will be starting an intership at Harvard Law School's Berkman Klein Center, researching AI regulations with Dr. Rumman Chowdhury and Professor Susan Hendrickson!
+I study this research topic by modifying existing methods for auditing -- as well as developing novel methods for auditing -- machine learning (or A.I.) systems and models.
+
+At this time, this work often involves `red-teaming' generative A.I. models, including for industry partners.
+
+## Red-teaming Inquiries:
+To inquire about my availability to join your company's red-team, please send an email to skingsle@cs.cmu.edu
+
+## News:
+* *August 2023*: I attended a public red-teaming event at DEFCON, sponsored by the White House!
+
+* *June 2023*: I started an intership at Harvard Law School's Berkman Klein Center, working with Dr. Rumman Chowdhury to organize a public red-teaming event at DEFCON, sponsored by the White House! 
 
 * * *May 2023*: I will be giving an invited talk at Rutgers University on AI inequality and UN Sustainable Development Goals (SDGS) [DIMACS Workshop Program](http://dimacs.rutgers.edu/events/details?eID=2394)
 
