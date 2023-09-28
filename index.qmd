@@ -6,7 +6,7 @@ title: ""
 Seasons greetings Carnegie Mellon community, I am available for meetings Mondays, Wednesdays, and Fridays.
 
 ## Research & Work:
-My research specifically focuses on understanding the economic risks of A.I. systems and tools, including generative A.I. models, for vulnerable, disadvantages, and marginalized end-users and socity.
+My research specifically focuses on understanding the economic risks of A.I. systems and tools, including generative A.I. models, for vulnerable, disadvantaged, and marginalized end-users and society.
 
 I study this research topic by modifying existing methods for auditing -- as well as developing novel methods for auditing -- machine learning (or A.I.) systems and models.
 
