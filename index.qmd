@@ -3,7 +3,7 @@ title: ""
 ---
 
 ## Current Status:
-Seasons greetings Carnegie Mellon community, this summer I am available for meetings Mondays and Wednesdays.
+Seasons greetings Carnegie Mellon community, I am available for meetings Mondays and Wednesdays.
 
 ## Research & Work:
 My research specifically focuses on understanding the economic and cybersecurity risks of Machine Learning (M.L.) or A.I. systems and tools, including generative A.I. models.
@@ -13,7 +13,7 @@ I study this research topic by modifying existing methods for auditing -- as wel
 At this time, this work often involves `red-teaming' generative A.I. models, including for industry partners.
 
 ## Red-teaming Inquiries:
-To inquire about my availability to join your organization's red-team, please send an email to skingsle@cs.cmu.edu
+To inquire about my availability to join your organization's red-team, please send an email to skingsle [at] cs.cmu.edu
 
 ## News:
 * *July 2024*: Our paper on mis/disinformation in job advertisements was published and presented at ChiWork! [link to our ChiWork paper](https://dl.acm.org/doi/10.1145/3663384.3663403)

@@ -11,7 +11,7 @@ website:
       openSidebar: false
       showHighlights: true
   page-footer: | 
-    This page brought to you by Sara C. Kingsley (2023)
+    This page brought to you by Sara C. Kingsley (2025)
   twitter-card:
     creator: "@sendgoodcheers"
     site: "@twitter"
@@ -22,8 +22,10 @@ website:
         text: Home
       - about.qmd
       - research.qmd
-      - data.qmd
-      - blog.qmd 
+      - dissertation.qmd
+      - software.qmd
+      - datasets.qmd
+  
 
 format:
   html:
