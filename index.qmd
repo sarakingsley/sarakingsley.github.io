@@ -3,32 +3,36 @@ title: ""
 ---
 
 ## Current Status:
-Seasons greetings Carnegie Mellon community, I am available for meetings Mondays and Wednesdays.
+Seasons greetings Carnegie Mellon community, I am available for meetings by appointment. Please send an email from your Andrew or organizational email to schedule. 
 
-## Research & Work:
-My research specifically focuses on understanding the economic and cybersecurity risks of Machine Learning (M.L.) or A.I. systems and tools, including generative A.I. models.
+## Research Work:
+My research specifically focuses on understanding the economic and cybersecurity risks of Machine Learning and AI systems and tools, focusing on transformer or generative AI models and agent systems.
 
-I study this research topic by modifying existing methods for auditing -- as well as developing novel methods for evaluating -- machine learning or A.I. systems and models.
+I study this research topic by modifying existing methods for auditing -- as well as developing novel methods for evaluating -- machine learning or AI systems. This includes transferring data science and computational social science methods to the identification of AI Cyber and Economic Security Threats.
 
-At this time, this work often involves `red-teaming' generative A.I. models, including for industry partners.
+At this time, this work often involves `red-teaming' generative AI models, including for industry partners.
 
 ## Red-teaming Inquiries:
-To inquire about my availability to join your organization's red-team, please send an email to skingsle [at] cs.cmu.edu
+To inquire about my availability to join your organization's red-team, please send an email to <sara[@]redteamai.org>
 
 ## News:
-* *July 2024*: Our paper on mis/disinformation in job advertisements was published and presented at ChiWork! [link to our ChiWork paper](https://dl.acm.org/doi/10.1145/3663384.3663403)
+* *August 2025*:  I am a teaching faculty at Carnegie Mellon University and an AI Security Researcher. 
 
-* *August 2023*: I attended a public red-teaming event at DEFCON, sponsored by the White House!
+* *August 2025*:  I earned my PhD from Carnegie Mellon University's School of Computer Science.
 
-* *June 2023*: I started an intership at Harvard Law School's Berkman Klein Center, working with Dr. Rumman Chowdhury to organize a public red-teaming event at DEFCON, sponsored by the White House! 
+[* *July 2024*: Our paper on mis/disinformation in job advertisements was published and presented at ChiWork! [link to our ChiWork paper](https://dl.acm.org/doi/10.1145/3663384.3663403)]: #
 
-* * *May 2023*: I will be giving an invited talk at Rutgers University on AI inequality and UN Sustainable Development Goals (SDGS) [DIMACS Workshop Program](http://dimacs.rutgers.edu/events/details?eID=2394)
+[* *August 2023*: I attended a public red-teaming event at DEFCON, sponsored by the White House!]: #
 
-* *Tuesday, April 25, 2023*: We will present our paper,  `Participation and Division of Labor in User-Driven Audits on Social Media`, at CHI. [ACM Paper link](https://dl.acm.org/doi/pdf/10.1145/3544548.3582074)
+[* *June 2023*: I started an intership at Harvard Law School's Berkman Klein Center, working with Dr. Rumman Chowdhury to organize a public red-teaming event at DEFCON, sponsored by the White House! ]: #
 
-* *January 2023*: Our paper on `Participation and Division of Labor in User-Driven Audits on Social Media` was accepted to CHI 2023! 
+[* * *May 2023*: I will be giving an invited talk at Rutgers University on AI inequality and UN Sustainable Development Goals (SDGS) [DIMACS Workshop Program](http://dimacs.rutgers.edu/events/details?eID=2394)]: #
 
-* *November 2022*: Our `YouTube Demonetization study` was published in the ACM library! [ACM Library](https://doi.org/10.1145/3555149) 
+[* *Tuesday, April 25, 2023*: We will present our paper,  `Participation and Division of Labor in User-Driven Audits on Social Media`, at CHI. [ACM Paper link](https://dl.acm.org/doi/pdf/10.1145/3544548.3582074)]: #
+
+[* *January 2023*: Our paper on `Participation and Division of Labor in User-Driven Audits on Social Media` was accepted to CHI 2023!]: #
+
+[* *November 2022*: Our `YouTube Demonetization study` was published in the ACM library! [ACM Library](https://doi.org/10.1145/3555149)]: # 
 
 
 

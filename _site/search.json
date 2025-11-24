@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sara Kingsley",
+    "section": "",
+    "text": "Seasons greetings Carnegie Mellon community, I am available for meetings by appointment. Please send an email from your Andrew or organizational email to schedule."
+  },
+  {
+    "objectID": "index.html#research-work",
+    "href": "index.html#research-work",
+    "title": "Sara Kingsley",
+    "section": "Research Work:",
+    "text": "Research Work:\nMy research specifically focuses on understanding the economic and cybersecurity risks of Machine Learning and AI systems and tools, focusing on transformer or generative AI models and agent systems.\nI study this research topic by modifying existing methods for auditing – as well as developing novel methods for evaluating – machine learning or AI systems. This includes transferring data science and computational social science methods to the identification of AI Cyber and Economic Security Threats.\nAt this time, this work often involves `red-teaming’ generative AI models, including for industry partners."
+  },
+  {
+    "objectID": "index.html#red-teaming-inquiries",
+    "href": "index.html#red-teaming-inquiries",
+    "title": "Sara Kingsley",
+    "section": "Red-teaming Inquiries:",
+    "text": "Red-teaming Inquiries:\nTo inquire about my availability to join your organization’s red-team, please send an email to <sara[@]redteamai.org>"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Sara Kingsley",
+    "section": "News:",
+    "text": "News:\n\nAugust 2025: I am a teaching faculty at Carnegie Mellon University and an AI Security Researcher.\nAugust 2025: I earned my PhD from Carnegie Mellon University’s School of Computer Science."
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Email Your Boss ChatBot",
+    "section": "",
+    "text": "This is version 1. It is buggy FYI."
+  },
+  {
+    "objectID": "data.html#where-can-i-find-the-chatbot",
+    "href": "data.html#where-can-i-find-the-chatbot",
+    "title": "Email Your Boss ChatBot",
+    "section": "Where can I find the Chatbot?",
+    "text": "Where can I find the Chatbot?\nPress the blue button at the bottom of the screen to open the ChatBot."
+  },
+  {
+    "objectID": "data.html#instructions",
+    "href": "data.html#instructions",
+    "title": "Email Your Boss ChatBot",
+    "section": "Instructions",
+    "text": "Instructions\nThe ChatBot will only take 2 user inputs/messages and provide only 2 responses to those inputs, then the conversation will end.\nIf you want to generate additional AI generated responses, please press “Start New Chat.” Then you will have 2 more inputs and responses, etc. and so on.\n\nWhat Prompts should I provide?\nImagine you are a new employee or job-seeker. Your (prospective) boss has given you a general or ambiguous job description or task to do. You’d like feedback on how, when (etc.) your (prospective) boss would like the task done. You’re unsure how to compose an email to ask. Describe the job description or task to the ChatBot. Would you send this email to your boss? Yes? No? Why or why not?\n\n\nNote\nWe have found the connection to Voiceflow buggy. If the chatBot doesn’t respond, please start a new chat and try again. If that doesn’t work, wait 10-15 minutes, and it will usually work at some point.\nThis is about the most basic prototype we could make. We are working to add more interaction types and resolve the connection issues and bugs."
+  },
+  {
+    "objectID": "data.html#feedback",
+    "href": "data.html#feedback",
+    "title": "Email Your Boss ChatBot",
+    "section": "Feedback",
+    "text": "Feedback\nWe’d love your feedback! Please send any feedback or questions to Sara Kingsley at <skingsle [at] cs.cmu.edu>"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "A complete list of my peer-reviewed (both non-archival and archival) publications are listed on this page."
+  },
+  {
+    "objectID": "research.html#archival",
+    "href": "research.html#archival",
+    "title": "Research",
+    "section": "Archival",
+    "text": "Archival\n\nRena Li, Sara Kingsley, Chelsea Fan, Proteeti Sinha, Nora Wai, Jaimie Lee, Hong Shen, Motahhare Eslami, and Jason I. Hong. 2023. “Participation and Division of Labor in User-Driven Algorithm Audits: How Do Everyday Users Work together to Surface Algorithmic Harms?.” In the Proceedings of ACM’s Conference on Human Factors in Computing (CHI). Forthcoming, April 2023, Hamburg, Germany. [Pre-print paper link] (https://sarakingsley.github.io/twitterpaperindex.html) *** Equal contributions\nSara Kingsley, Proteeti Sinha, Clara Wang, Motahhare Eslami, and Jason I. Hong. 2022. “Give Everybody [..] a Little Bit More Equity”: Content Creator Perspectives and Responses to the Algorithmic Demonetization of Content Associated with Disadvantaged Groups.” Proc. ACM Hum.-Comput. Interact. 6, CSCW2, Article 424 (November 2022), 37 pages. ACM Library\nShamika Klassen, Sara Kingsley, Kalyn McCall, Joy Weinberg, and Casey Fiesler. 2022. Black Lives, Green Books, and Blue Checks: Comparing the Content of the Negro Motorist Green Book to the Content on Black Twitter. Proc. ACM Hum.-Comput. Interact. 6, GROUP, Article 27 (January 2022), 22 pages. ACM Library\nShamika Klassen, Sara Kingsley, Kalyn McCall, Joy Weinberg, and Casey Fiesler. 2021. More than a Modern Day Green Book: Exploring the Online Community of Black Twitter. Proc. ACM Hum.-Comput. Interact. 5, CSCW2, Article 458 (October 2021), 29 pages. ACM Library\nRediet Abebe, Kehinde Aruleba, Abeba Birhane, Sara Kingsley, George Obaido, Sekou L. Remy, and Swathi Sadagopan.* 2021. Narratives and Counternarratives on Data Sharing in Africa. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’21). Association for Computing Machinery, New York, NY, USA, 329–341. ACM Library\nSara Kingsley, Mary L. Gray and Siddharth Suri. “Accounting for Market Frictions and Power Asymmetries in Online Labor Markets,” Policy & Internet, 2015, 7 (4), 383-400. Policy & Internet"
+  },
+  {
+    "objectID": "research.html#non-archival",
+    "href": "research.html#non-archival",
+    "title": "Research",
+    "section": "Non-archival",
+    "text": "Non-archival\nThese publications were peer-reviewed by a non-publishing venue. I have posted these publications here via arXiv, SSRN and institutional press.\n\nSara Kingsley, Clara Wang, Alexandra Mikhalenko, Proteeti Sinha and Chinmay Kulkarni. “Auditing Digital Platforms for Discrimination in Economic Opportunity Advertising.” In the Proceedings of ACM Economics and Computation 4th Workshop on Mechanism Design for Social Good (MD4SG 20), June 2019: Phoenix, Arizona. arXiv\nAbhishek Gupta, Camylle Lanteigne and Sara Kingsley. “SECure: A Social and Environmental Certificate for AI Systems.” In the Proceedings of ACM Economics and Computation 4th Workshop on Mechanism Design for Social Good (MD4SG 20), June 2019: Phoenix, Arizona. arXiv\nSara Kingsley, Mary L. Gray and Siddharth Suri. “Monopsony and the crowd: labor for lemons?” Conference on Internet, Policy &. Policy (IPP), September 2014: Oxford Internet Institute, Oxford University, Oxford. Oxford University"
+  },
+  {
+    "objectID": "research.html#policy-papers",
+    "href": "research.html#policy-papers",
+    "title": "Research",
+    "section": "Policy Papers",
+    "text": "Policy Papers\nThese papers were written for policy stakeholders and are not peer-reviewed.\nforthcoming"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\nThese papers are works in progress and are not yet peer-reviewed. I have posted these publications here via arXiv.\n\nSara Kingsley. “A Cognitive Science perspective for learning how to design meaningful user experiences and human-centered technology.” May 2020. arXiv"
+  },
+  {
+    "objectID": "index.html#recent-news",
+    "href": "index.html#recent-news",
+    "title": "Sara Kingsley",
+    "section": "Recent News:",
+    "text": "Recent News:\n\nAugust 2025: I am a teaching faculty at Carnegie Mellon University and an AI Security Researcher.\nAugust 2025: I earned my PhD from Carnegie Mellon University’s School of Computer Science."
+  }
+]
